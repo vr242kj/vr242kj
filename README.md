@@ -5,3 +5,5 @@
 - 🤔 I’m looking for help with learning java and its frameworks to become a back-end developer. More precisely, a more experienced developer who will give hints and do code reviews :pray:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vr242kj&show_icons=true&theme=gruvbox)]
+
+![nyancat](https://raw.githubusercontent.com/Gowee/nyancat-svg/main/nyancat.svg)
