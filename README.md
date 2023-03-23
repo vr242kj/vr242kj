@@ -2,10 +2,8 @@
 
 <!--
 **vr242kj/vr242kj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# CodewarsBadge
-My Codewars Badge:
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-![image](https://www.codewars.com/users/Vitaliy%20Replyuk/badges/large)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
