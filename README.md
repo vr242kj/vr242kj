@@ -1,4 +1,4 @@
-### Hi there 👋
+![Image alt](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)
 ![image](https://www.codewars.com/users/Vitaliy%20Replyuk/badges/micro)
 - 🔭 I’m currently working on project Library Service
 
