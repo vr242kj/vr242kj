@@ -5,3 +5,4 @@
 - 🔭 I’m currently working on project Library Service
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vr242kj&show_icons=true&theme=gruvbox)
+[![Vitaliy profile views](https://u8views.com/api/v1/github/profiles/88940299/views/day-week-month-total-count.svg)](https://u8views.com/github/vr242kj)
